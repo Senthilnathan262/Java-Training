@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+/home/User-L4/JAVA ECLIPSE/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+3585927453.index
+1402089441.index
+2484691054.index
+2152125967.index
+2861188469.index
+2771598594.index
